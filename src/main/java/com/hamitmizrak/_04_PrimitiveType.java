@@ -43,5 +43,6 @@ public class _04_PrimitiveType {
         // char (16-bit Unicode character)
         char c = 'A';
         System.out.println("char: " + c);
+
     }
 }
